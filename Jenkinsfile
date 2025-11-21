@@ -8,9 +8,9 @@ pipeline {
             stage('World') {
          echo 'Hello, World!'
             echo 'I am from India'
+     }
     }
    }
   }
- }
-} 
-  
+ } 
+}  
